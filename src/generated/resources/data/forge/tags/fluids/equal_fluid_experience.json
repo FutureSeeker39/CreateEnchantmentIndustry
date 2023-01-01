@@ -1,6 +1,6 @@
 {
   "replace": false,
   "values": [
-    "#tconstruct:molten_aluminum"
+    "create_enchantment_industry:liquid_experience"
   ]
 }
